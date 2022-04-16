@@ -47,7 +47,7 @@ class ArraySort {
        var commonArray = Array<Int>(sortedArrayOddNumbers.size + sortedArrayEvenNumbers.size) {0}
        val count = 0
        commonArray = addValuesToArray(commonArray, sortedArrayEvenNumbers, count)
-       commonArray = addValuesToArray(commonArray, sortedArrayOddNumbers, sortedArrayEvenNumbers.size - 1)
+       commonArray = addValuesToArray(commonArray, sortedArrayOddNumbers, sortedArrayEvenNumbers.size)
 
         return commonArray.contentToString()
     }
