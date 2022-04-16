@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ArraySortTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-04-16T16:59:43" hostname="dima-HN-WX9X" time="0.004">
+  <properties/>
+  <testcase name="sortArrayMinToMax_Should_Return_Sorted_Array_From_Min_To_Max" classname="ArraySortTest" time="0.003"/>
+  <testcase name="sortArrayMaxToMin_Should_Return_Sorted_Array_From_Max_To_Min" classname="ArraySortTest" time="0.001"/>
+  <testcase name="getSortArrayFirstEvenThenOdd_Should_Return_Array_FromEven_ToOdd_Numbers" classname="ArraySortTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

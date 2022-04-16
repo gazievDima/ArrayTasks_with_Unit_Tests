@@ -1,6 +1,5 @@
 class ArraySort {
 
-
     fun sortArrayMinToMax(array: Array<Int>): Array<Int> {
         for(i in array.indices) {
             for (el in array.indices) {
@@ -37,7 +36,7 @@ class ArraySort {
         return array
     }
 
-    fun getStringSortArrayFirstEvenThenOdd(array: Array<Int>): String {
+    fun getSortArrayFirstEvenThenOdd(array: Array<Int>): Array<Int> {
        val isNotSortedArrayEvenNumbers = getArrEvenNumbers(array)
        val sortedArrayEvenNumbers = sortArrayMinToMax(isNotSortedArrayEvenNumbers)
 
@@ -49,7 +48,7 @@ class ArraySort {
        commonArray = addValuesToArray(commonArray, sortedArrayEvenNumbers, count)
        commonArray = addValuesToArray(commonArray, sortedArrayOddNumbers, sortedArrayEvenNumbers.size)
 
-        return commonArray.contentToString()
+        return commonArray
     }
 
     private fun addValuesToArray(commonArray: Array<Int>, valuesArray: Array<Int>, count: Int): Array<Int> {

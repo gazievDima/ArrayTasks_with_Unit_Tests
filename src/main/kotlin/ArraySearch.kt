@@ -30,7 +30,7 @@ class ArraySearch {
     }
 
 
-    fun returnArrOddNumbers(array: Array<Int>): Array<Int> {
+    fun getArrOddNumbers(array: Array<Int>): Array<Int> {
         var sizeArr = 0
         for (i in array.indices) {
             if (array[i] % 2 != 0) {
@@ -48,7 +48,7 @@ class ArraySearch {
         return newArray
     }
 
-    fun returnArrEvenNumbers(array: Array<Int>): Array<Int> {
+    fun getArrEvenNumbers(array: Array<Int>): Array<Int> {
         var sizeArr = 0
         for (i in array.indices) {
             if (array[i] % 2 == 0) {
@@ -66,7 +66,7 @@ class ArraySearch {
         return newArray
     }
 
-    fun getStringToCountRepeatNumbers(array: Array<Int>): String {
+    fun getStringToCountRepeatNumbersMore0(array: Array<Int>): String {
         val arrUniqueNumbers = IntArray(getSizeForNewArrayUniqueNumber(array))
         var result = ""
         var currentIndex = 0

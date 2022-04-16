@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ArraySumTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-04-16T16:59:43" hostname="dima-HN-WX9X" time="0.001">
+  <properties/>
+  <testcase name="sumOddNumbers_Should_Return_Sum_All_Odd_Numbers_From_Array" classname="ArraySumTest" time="0.0"/>
+  <testcase name="sumEvenNumbers_Should_Return_Sum_All_Even_Numbers_From_Array" classname="ArraySumTest" time="0.0"/>
+  <testcase name="sumAllNumbers_Should_Return_Sum_All_Numbers_From_Array" classname="ArraySumTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

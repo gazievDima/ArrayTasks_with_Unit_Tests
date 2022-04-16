@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ArraySearchTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-04-16T16:59:43" hostname="dima-HN-WX9X" time="0.003">
+  <properties/>
+  <testcase name="getArrEvenNumbers_Should_Return_Array_Of_Even_Numbers" classname="ArraySearchTest" time="0.001"/>
+  <testcase name="getStringToCountRepeatNumbersMore0_Should_Return_String_With_Count_Repeat_Numbers_More_0" classname="ArraySearchTest" time="0.001"/>
+  <testcase name="searchMinNumber_Should_Return_Min_Number_From_Array" classname="ArraySearchTest" time="0.0"/>
+  <testcase name="searchNumber_Should_Return_True_Or_False" classname="ArraySearchTest" time="0.001"/>
+  <testcase name="getArrOddNumbers_Should_Return_Array_Of_Odd_Numbers" classname="ArraySearchTest" time="0.0"/>
+  <testcase name="searchMaxNumber_Should_Return_Max_Number_From_Array" classname="ArraySearchTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

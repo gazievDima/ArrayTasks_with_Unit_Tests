@@ -1,0 +1,1 @@
+/home/dima/dev/ArrayTasks/build/classes/kotlin/main/ArraySearch.class:/home/dima/dev/ArrayTasks/build/classes/kotlin/main/ArraySort.class:/home/dima/dev/ArrayTasks/build/classes/kotlin/main/ArraySum.class:/home/dima/dev/ArrayTasks/build/classes/kotlin/main/MainKt.class
